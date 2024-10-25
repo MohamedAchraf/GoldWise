@@ -1,0 +1,4 @@
+venv/
+*.pkl
+forecast_plot_cleaned.png
+data/gold_prices.csv
